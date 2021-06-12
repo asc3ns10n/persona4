@@ -15,12 +15,11 @@ YCbCr Matrix: TV.709
 Last Style Storage: P4
 Audio File: [Salender-Raws] Persona 4 The Animation 02 (BD 1920x1080 x264 FLAC).mkv
 Video File: [Salender-Raws] Persona 4 The Animation 02 (BD 1920x1080 x264 FLAC).mkv
-Keyframes File: [Salender-Raws] Persona 4 The Animation 02 (BD 1920x1080 x264 FLAC)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 4
-Video Position: 32304
+Video Zoom Percent: 0.250000
+Active Line: 2
+Video Position: 20976
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,7 +29,7 @@ Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&HBE000000,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:54.03,0:00:54.08,Default,chptr,0,0,0,,{OP}
 Dialogue: 10,0:02:24.67,0:02:24.71,Default,chptr,0,0,0,,{Part A}
-Dialogue: 10,0:14:34.85,0:14:44.86,Default,chptr,0,0,0,,{Eyecatch}
+Dialogue: 10,0:14:34.85,0:14:34.90,Default,chptr,0,0,0,,{Eyecatch}
 Dialogue: 10,0:14:44.86,0:14:44.91,Default,chptr,0,0,0,,{Part B}
 Dialogue: 10,0:22:27.33,0:22:27.37,Default,chptr,0,0,0,,{ED}
 Dialogue: 10,0:23:42.40,0:23:42.44,Default,chptr,0,0,0,,{Part C}

@@ -15,11 +15,11 @@ YCbCr Matrix: TV.709
 Last Style Storage: P4
 Audio File: [Salender-Raws] Persona 4 The Animation 02 (BD 1920x1080 x264 FLAC).mkv
 Video File: [Salender-Raws] Persona 4 The Animation 02 (BD 1920x1080 x264 FLAC).mkv
-Keyframes File: [Salender-Raws] Persona 4 The Animation 02 (BD 1920x1080 x264 FLAC)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Video Position: 10741
+Video Zoom Percent: 0.375000
+Active Line: 4
+Video Position: 6441
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,8 +27,10 @@ Style: Signs,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:07:27.95,0:07:30.09,Signs,,0,0,0,,{\fad(250,0)\blur1\fs25\b0\bord0\fnArial Rounded MT\frz6.555\pos(667,342)}No new mail
-Comment: 0,0:07:27.95,0:07:30.09,Signs,,0,0,0,,{\fad(250,0)\blur1\fs25\b0\bord0\fnArial Rounded MT\frz6.555\pos(661,302)}Check Mail
+Comment: 0,0:07:27.95,0:07:30.09,Signs,Doki,0,0,0,,{\fad(250,0)\blur1\fs25\b0\bord0\fnArial Rounded MT\frz6.555\pos(661,302)}Check Mail{USBD: Check Mailbox}
+Comment: 0,0:07:27.95,0:07:30.09,Signs,Doki,0,0,0,,{\fad(250,0)\blur1\fs25\b0\bord0\fnArial Rounded MT\frz6.555\pos(667,342)}No new mail{USBD: No new messages}
+Comment: 0,0:13:24.63,0:13:27.37,Signs,,0,0,0,,Runway Heart
+Comment: 0,0:19:00.54,0:19:05.04,Signs,,0,0,0,,Runway Heart
 Dialogue: 0,0:04:28.62,0:04:28.70,Signs,,0,0,0,,{=2}{\pos(895.45,141.15)\fscx153.98\fscy153.98\fnFC勘亭流江戸文字\fs45\bord5.08\c&HB1B8B9&\3c&HE0E0E0&\1a&HFF&\blur1.49}{sign}Way of the Ballad
 Dialogue: 1,0:04:28.62,0:04:29.04,Signs,,0,0,0,,{=1}{\pos(895.45,141.15)\fscx153.98\fscy153.98\fnFC勘亭流江戸文字\fs45\bord3.08\c&H111C1A&\3c&H111C1A&\1a&HFF&\blur1.49}{sign}Way of the Ballad
 Dialogue: 2,0:04:28.62,0:04:29.04,Signs,,0,0,0,,{=0}{\pos(895.45,141.15)\fscx153.98\fscy153.98\fnFC勘亭流江戸文字\fs45\c&HBAE5EF&\blur1.3}{sign}Way of the Ballad
@@ -569,6 +571,14 @@ Dialogue: 0,0:16:18.04,0:16:18.08,Signs,,0,0,0,,{=1}{\an6\pos(1290.09,101.09)\fs
 Dialogue: 1,0:16:18.04,0:16:18.08,Signs,,0,0,0,,{=0}{\an6\pos(1290.09,101.09)\fscx98.99\fscy98.99\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.69}{sign}Burning\Nup!
 Dialogue: 0,0:16:18.08,0:16:18.87,Signs,,0,0,0,,{=1}{\an6\pos(1287,99)\frz26.134\fnMaterial Sans\b1\bord3.5\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\blur0.7\fad(0,600)}{sign}Burning\Nup!
 Dialogue: 1,0:16:18.08,0:16:18.87,Signs,,0,0,0,,{=0}{\an6\pos(1287,99)\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.7\fad(0,600)}{sign}Burning\Nup!
+Dialogue: 0,0:19:24.52,0:19:24.56,Signs,,0,0,0,,{=1}{\an6\pos(1423.17,196.66)\fscx49.43\fscy49.43\frz26.134\fnMaterial Sans\b1\bord1.73\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\3a&H9F&\blur0.35}{sign}Burning\Nup!
+Dialogue: 1,0:19:24.52,0:19:24.56,Signs,,0,0,0,,{=0}{\an6\pos(1423.17,196.66)\fscx49.43\fscy49.43\frz26.134\fnMaterial Sans\b1\c&H88847E&\1a&H9F&\blur0.35}{sign}Burning\Nup!
+Dialogue: 0,0:19:24.56,0:19:24.60,Signs,,0,0,0,,{=1}{\an6\pos(1357.77,149.28)\fscx73.67\fscy73.67\frz26.134\fnMaterial Sans\b1\bord2.58\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\3a&H52&\blur0.52}{sign}Burning\Nup!
+Dialogue: 1,0:19:24.56,0:19:24.60,Signs,,0,0,0,,{=0}{\an6\pos(1357.77,149.28)\fscx73.67\fscy73.67\frz26.134\fnMaterial Sans\b1\c&H88847E&\1a&H52&\blur0.52}{sign}Burning\Nup!
+Dialogue: 0,0:19:24.60,0:19:24.64,Signs,,0,0,0,,{=1}{\an6\pos(1290.09,101.09)\fscx98.99\fscy98.99\frz26.134\fnMaterial Sans\b1\bord3.46\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\blur0.69}{sign}Burning\Nup!
+Dialogue: 1,0:19:24.60,0:19:24.64,Signs,,0,0,0,,{=0}{\an6\pos(1290.09,101.09)\fscx98.99\fscy98.99\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.69}{sign}Burning\Nup!
+Dialogue: 0,0:19:24.64,0:19:25.44,Signs,,0,0,0,,{=1}{\an6\pos(1287,99)\frz26.134\fnMaterial Sans\b1\bord3.5\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\blur0.7\fad(0,600)}{sign}Burning\Nup!
+Dialogue: 1,0:19:24.64,0:19:25.44,Signs,,0,0,0,,{=0}{\an6\pos(1287,99)\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.7\fad(0,600)}{sign}Burning\Nup!
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"bc48a138-7778-47b8-8010-7fd151654b01"#2C"originalText"#3A"{\\fnFC#E5#8B#98#E4#BA#AD#E6#B5#81#E6#B1#9F#E6#88#B8#E6#96#87#E5#AD#97\\fs45\\c&HBAE5EF&\\blur1.02\\pos(848.21#2C240.09)}{sign}Way of the Ballad"}
