@@ -18,10 +18,10 @@ Video File: [Salender-Raws] Persona 4 The Animation 03 (BD 1920x1080 x264 FLAC).
 Keyframes File: [Salender-Raws] Persona 4 The Animation 03 (BD 1920x1080 x264 FLAC)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 6
-Active Line: 11
-Video Position: 7631
+Video Zoom Percent: 0.750000
+Scroll Position: 30
+Active Line: 48
+Video Position: 18481
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,14 +70,14 @@ Dialogue: 0,0:12:41.41,0:12:41.45,Signs,,0,0,0,,{=1}{\an6\pos(1290.09,101.09)\fs
 Dialogue: 1,0:12:41.41,0:12:41.45,Signs,,0,0,0,,{=0}{\an6\pos(1290.09,101.09)\fscx98.99\fscy98.99\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.69}{sign}Burning\Nup!
 Dialogue: 0,0:12:41.45,0:12:42.24,Signs,,0,0,0,,{=1}{\an6\pos(1287,99)\frz26.134\fnMaterial Sans\b1\bord3.5\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\blur0.7\fad(0,600)}{sign}Burning\Nup!
 Dialogue: 1,0:12:41.45,0:12:42.24,Signs,,0,0,0,,{=0}{\an6\pos(1287,99)\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.7\fad(0,600)}{sign}Burning\Nup!
-Dialogue: 0,0:12:50.66,0:12:50.70,Signs,,0,0,0,,{=7}{\fscx49.43\fscy49.43\an6\pos(1436.28,183.55)\frz26.134\fnMaterial Sans\b1\bord1.73\c&HC7C7C7&\3c&HC7C7C7&\1a&HFF&\3a&HDE&\blur0.35}{sign}Burning\Nup!
-Dialogue: 1,0:12:50.66,0:12:50.70,Signs,,0,0,0,,{=6}{\fscx49.43\fscy49.43\an6\pos(1436.28,183.55)\frz26.134\fnMaterial Sans\b1\c&H494642&\1a&HD5&\blur0.35}{sign}Burning\Nup!
-Dialogue: 0,0:12:50.70,0:12:50.74,Signs,,0,0,0,,{=7}{\fscx73.67\fscy73.67\an6\pos(1377.3,129.74)\frz26.134\fnMaterial Sans\b1\bord2.58\c&HC7C7C7&\3c&HC7C7C7&\1a&HFF&\3a&HCF&\blur0.52}{sign}Burning\Nup!
-Dialogue: 1,0:12:50.70,0:12:50.74,Signs,,0,0,0,,{=6}{\fscx73.67\fscy73.67\an6\pos(1377.3,129.74)\frz26.134\fnMaterial Sans\b1\c&H494642&\1a&HAB&\blur0.52}{sign}Burning\Nup!
-Dialogue: 0,0:12:50.74,0:12:50.79,Signs,,0,0,0,,{=7}{\fscx98.99\fscy98.99\an6\pos(1316.34,74.84)\frz26.134\fnMaterial Sans\b1\bord3.46\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\blur0.69}{sign}Burning\Nup!
-Dialogue: 1,0:12:50.74,0:12:50.79,Signs,,0,0,0,,{=6}{\fscx98.99\fscy98.99\an6\pos(1316.34,74.84)\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.69}{sign}Burning\Nup!
-Dialogue: 0,0:12:50.79,0:12:51.58,Signs,,0,0,0,,{=7}{\fscx100\fscy100\an6\pos(1313.52,72.48)\frz26.134\fnMaterial Sans\b1\bord3.5\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\blur0.7\fad(0,600)}{sign}Burning\Nup!
-Dialogue: 1,0:12:50.79,0:12:51.58,Signs,,0,0,0,,{=6}{\fscx100\fscy100\an6\pos(1313.52,72.48)\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.7\fad(0,600)}{sign}Burning\Nup!
+Dialogue: 0,0:12:50.66,0:12:50.70,Signs,,0,0,0,,{=7}{\an6\pos(1436.28,183.55)\fscx49.43\fscy49.43\frz26.134\fnMaterial Sans\b1\bord1.73\c&HC7C7C7&\3c&HC7C7C7&\1a&HFF&\3a&HDE&\blur0.35}{sign}Burning\Nup!
+Dialogue: 1,0:12:50.66,0:12:50.70,Signs,,0,0,0,,{=6}{\an6\pos(1436.28,183.55)\fscx49.43\fscy49.43\frz26.134\fnMaterial Sans\b1\c&H494642&\1a&HD5&\blur0.35}{sign}Burning\Nup!
+Dialogue: 0,0:12:50.70,0:12:50.74,Signs,,0,0,0,,{=7}{\an6\pos(1377.3,129.74)\fscx73.67\fscy73.67\frz26.134\fnMaterial Sans\b1\bord2.58\c&HC7C7C7&\3c&HC7C7C7&\1a&HFF&\3a&HCF&\blur0.52}{sign}Burning\Nup!
+Dialogue: 1,0:12:50.70,0:12:50.74,Signs,,0,0,0,,{=6}{\an6\pos(1377.3,129.74)\fscx73.67\fscy73.67\frz26.134\fnMaterial Sans\b1\c&H494642&\1a&HAB&\blur0.52}{sign}Burning\Nup!
+Dialogue: 0,0:12:50.74,0:12:50.79,Signs,,0,0,0,,{=7}{\an6\pos(1316.34,74.84)\fscx98.99\fscy98.99\frz26.134\fnMaterial Sans\b1\bord3.46\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\blur0.69}{sign}Burning\Nup!
+Dialogue: 1,0:12:50.74,0:12:50.79,Signs,,0,0,0,,{=6}{\an6\pos(1316.34,74.84)\fscx98.99\fscy98.99\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.69}{sign}Burning\Nup!
+Dialogue: 0,0:12:50.79,0:12:51.58,Signs,,0,0,0,,{=7}{\an6\pos(1313.52,72.48)\frz26.134\fnMaterial Sans\b1\bord3.5\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\blur0.7\fad(0,600)}{sign}Burning\Nup!
+Dialogue: 1,0:12:50.79,0:12:51.58,Signs,,0,0,0,,{=6}{\an6\pos(1313.52,72.48)\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.7\fad(0,600)}{sign}Burning\Nup!
 
 [Aegisub Extradata]
 Data: 6,a-mo,e{"uuid"#3A"05938960-3010-40a5-a625-42e1e345bf55"#2C"originalText"#3A"{\\an6\\pos(1313.52#2C72.48)\\frz26.134\\fnMaterial Sans\\b1\\c&H88847E&\\blur0.7\\fad(0#2C600)}{sign}Burning\\Nup!"}
