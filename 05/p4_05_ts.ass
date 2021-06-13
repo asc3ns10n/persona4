@@ -17,9 +17,10 @@ Audio File: [Salender-Raws] Persona 4 The Animation 05 (BD 1920x1080 x264 FLAC).
 Video File: [Salender-Raws] Persona 4 The Animation 05 (BD 1920x1080 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 2
-Video Position: 20581
+Video Zoom Percent: 1.000000
+Scroll Position: 12
+Active Line: 12
+Video Position: 27842
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,11 +34,13 @@ Comment: 0,0:14:18.36,0:14:20.13,Signs,,0,0,0,,Ebi
 Comment: 0,0:17:11.84,0:17:21.35,Signs,,0,0,0,,Yasogami High{Probably unnecessary, though.}
 Comment: 0,0:17:23.77,0:17:28.24,Signs,,0,0,0,,204 Minutes       Standby
 Comment: 0,0:17:23.77,0:17:28.24,Signs,,0,0,0,,P. Menu
-Comment: 0,0:19:21.22,0:19:23.23,Signs,,0,0,0,,Chinese Diner AIYA
 Comment: 0,0:21:29.43,0:21:31.19,Signs,,0,0,0,,First date with Yu{not really necessary}
 Comment: 0,0:14:18.39,0:14:18.50,Signs,doki,0,0,0,,{\fnArial Rounded MT\fs60\bord0\fscy85\fax-0.1\frz48.961\pos(726,973.5)}Ebi
 Comment: 0,0:14:18.50,0:14:18.64,Signs,doki,0,0,0,,{\fnArial Rounded MT\fs60\bord0\frz38.478\fscy90\fax-0.05\pos(804,900)}Ebi
 Comment: 0,0:14:18.64,0:14:18.75,Signs,doki,0,0,0,,{\fnArial Rounded MT\fs60\bord0\frz29.27\pos(894,829.5)}Ebi
 Comment: 0,0:14:18.75,0:14:20.13,Signs,doki,0,0,0,,{\fnArial Rounded MT\fs60\bord0\frz21.266\pos(1012.5,768)}Ebi
 Comment: 0,0:16:17.62,0:16:20.62,Signs,doki,0,0,0,,{\fnArial Rounded MT\bord0\fs60\fay0.15\3c&HCAC5C0&\pos(883.5,613.5)\c&H737066&\alpha&H25&}Basketball Club
+Dialogue: 0,0:19:21.22,0:19:23.23,Signs,,0,0,0,,{\pos(665.39,269.56)\frz8.76\fry-4.05\frx0.14\fax-0.15\fnNinja Naruto\fs18\b1\c&H4E8990&\blur0.8\1a&H00&}Chinese Diner
+Dialogue: 0,0:19:21.22,0:19:23.23,Signs,,0,0,0,,{\pos(975,175)\frz11\fry-3.79\frx0.13\fax-0.16\fnOneDirection\fs39\bord2.5\c&H679195&\3c&H8AA8C3&\3a&H53&\blur0.7}AIYA
+Dialogue: 1,0:19:21.22,0:19:23.23,Signs,,0,0,0,,{\pos(975,175)\frz11\fry-3.79\frx0.13\fax-0.16\fnOneDirection\fs39\c&H414388&\1a&H11&\blur0.7}AIYA
 Dialogue: 0,0:16:17.72,0:16:20.63,Signs,,0,0,0,,{\c&H888179&\blur0.75\frz350.259\fax0.2\pos(868.5,465)}Basketball Club
