@@ -19,9 +19,9 @@ Keyframes File: [Salender-Raws] Persona 4 The Animation 03 (BD 1920x1080 x264 FL
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 30
-Active Line: 48
-Video Position: 18481
+Scroll Position: 22
+Active Line: 33
+Video Position: 11403
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,6 +62,7 @@ Comment: 0,0:07:15.07,0:07:17.41,Signs,doki,0,0,0,,{\fs90\fnArial Rounded MT\bor
 Comment: 0,0:07:55.57,0:07:56.83,Signs2,doki,0,0,0,,{\fs52.5\be0\blur1.5\bord1.5\3c&HF7F7F7&\c&HB8D4C6&\fay0.1\fax0.3\frz345.912\fscy80\pos(1575,829.5)}Amagi
 Comment: 0,0:07:55.57,0:07:56.83,Signs2,doki,0,0,0,,{\fs52.5\be0\blur1.5\bord1.5\3c&HF7F7F7&\c&HB8D4C6&\fay0.1\fax0.3\frz345.912\fscy80\pos(1578,877.5)}Family
 Comment: 0,0:07:55.57,0:07:56.83,Signs2,doki,0,0,0,,{\fs52.5\be0\blur1.5\bord1.5\3c&HF7F7F7&\c&HB8D4C6&\fay0.1\fax0.3\frz345.912\fscy80\pos(1581,919.5)}\h\h\h\hInn\h\h\h\h
+Dialogue: 0,0:07:55.57,0:07:56.83,Signs,,0,0,0,,{\blur0.8\fs45\fscx90\fry6.07\frx7.72\frz-24.3\fax0.54\c&H95C2AF&\1a&H8A&\pos(1511.02,249.37)}Amagi Inn
 Dialogue: 0,0:12:41.32,0:12:41.37,Signs,,0,0,0,,{=1}{\an6\pos(1423.17,196.66)\fscx49.43\fscy49.43\frz26.134\fnMaterial Sans\b1\bord1.73\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\3a&H9F&\blur0.35}{sign}Burning\Nup!
 Dialogue: 1,0:12:41.32,0:12:41.37,Signs,,0,0,0,,{=0}{\an6\pos(1423.17,196.66)\fscx49.43\fscy49.43\frz26.134\fnMaterial Sans\b1\c&H88847E&\1a&H9F&\blur0.35}{sign}Burning\Nup!
 Dialogue: 0,0:12:41.37,0:12:41.41,Signs,,0,0,0,,{=1}{\an6\pos(1357.77,149.28)\fscx73.67\fscy73.67\frz26.134\fnMaterial Sans\b1\bord2.58\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\3a&H52&\blur0.52}{sign}Burning\Nup!
