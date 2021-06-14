@@ -19,16 +19,16 @@ subs {
         from(get("dialogue")) {
             incrementLayer(10)
         }
-		
-		from(getList("eyecatch"))
+        
+        from(getList("eyecatch"))
         from(getList("typesetting"))
-		
-		if(propertyExists("OP")) {
+        
+        if(propertyExists("OP")) {
             from(get("OP")) {
                 syncTargetTime(getAs<Duration>("opsync"))
             }
         }
-		
+        
         if(propertyExists("ED")) {
             from(get("ED")) {
                 syncTargetTime(getAs<Duration>("edsync"))
@@ -37,15 +37,15 @@ subs {
     }
 
     val mergeSigns by task<Merge> {
-		from(getList("eyecatch"))
+        from(getList("eyecatch"))
         from(getList("typesetting"))
-		
-		if(propertyExists("OP")) {
+        
+        if(propertyExists("OP")) {
             from(get("OP")) {
                 syncTargetTime(getAs<Duration>("opsync"))
             }
         }
-		
+        
         if(propertyExists("ED")) {
             from(get("ED")) {
                 syncTargetTime(getAs<Duration>("edsync"))
@@ -62,16 +62,16 @@ subs {
 
         from(get("premux")) {
             video {
-				trackOrder(0)
-				lang("jpn")
-				name("BD 1080p x264 [Salender-Raws]")
+                trackOrder(0)
+                lang("jpn")
+                name("BD 1080p x264 [Salender-Raws]")
             }
             audio {
                 trackOrder(2)
-				lang("jpn")
-				name("Japanese 2.0 FLAC")
+                lang("jpn")
+                name("Japanese 2.0 FLAC")
             }
-			attachments { include(false) }
+            attachments { include(false) }
             subtitles { include(false) }
         }
 
