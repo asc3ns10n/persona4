@@ -19,8 +19,8 @@ Keyframes File: [Salender-Raws] Persona 4 The Animation 11 (BD 1920x1080 x264 FL
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 1
-Video Position: 2983
+Active Line: 5
+Video Position: 34176
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,7 @@ Dialogue: 0,0:02:04.40,0:02:04.44,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:10:32.61,0:10:32.65,Default,chptr,0,0,0,,{Eyecatch}
 Dialogue: 0,0:10:42.62,0:10:42.66,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:22:30.70,0:22:30.75,Default,chptr,0,0,0,,{ED}
-Dialogue: 0,0:23:45.40,0:23:45.45,Default,chptr,0,0,0,,{Part C}
+Dialogue: 0,0:23:45.40,0:23:45.45,Default,chptr,0,0,0,,{Epilogue}
 Dialogue: 0,0:24:16.43,0:24:16.48,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:00:03.55,0:00:06.31,Default,,0,0,0,,Welcome to the Velvet Room.
 Dialogue: 0,0:00:06.31,0:00:12.28,Default,,0,0,0,,I see you've formed yet another new bond after overcoming a fierce battle.

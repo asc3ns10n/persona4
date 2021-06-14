@@ -17,9 +17,9 @@ Audio File: [Salender-Raws] Persona 4 The Animation 02 (BD 1920x1080 x264 FLAC).
 Video File: [Salender-Raws] Persona 4 The Animation 02 (BD 1920x1080 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 2
-Video Position: 20976
+Video Zoom Percent: 0.125000
+Active Line: 5
+Video Position: 34104
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,7 @@ Dialogue: 10,0:02:24.67,0:02:24.71,Default,chptr,0,0,0,,{Part A}
 Dialogue: 10,0:14:34.85,0:14:34.90,Default,chptr,0,0,0,,{Eyecatch}
 Dialogue: 10,0:14:44.86,0:14:44.91,Default,chptr,0,0,0,,{Part B}
 Dialogue: 10,0:22:27.33,0:22:27.37,Default,chptr,0,0,0,,{ED}
-Dialogue: 10,0:23:42.40,0:23:42.44,Default,chptr,0,0,0,,{Part C}
+Dialogue: 10,0:23:42.40,0:23:42.44,Default,chptr,0,0,0,,{Epilogue}
 Dialogue: 10,0:24:16.43,0:24:16.48,Default,chptr,0,0,0,,{Preview}
 Dialogue: 10,0:00:05.07,0:00:08.47,Default,,0,0,0,,Welcome to the Velvet Room.
 Dialogue: 10,0:00:08.82,0:00:13.85,Default,,0,0,0,,Only those who are bound by a contract may enter here.

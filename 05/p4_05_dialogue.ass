@@ -18,8 +18,9 @@ Video File: [Salender-Raws] Persona 4 The Animation 05 (BD 1920x1080 x264 FLAC).
 Keyframes File: [Salender-Raws] Persona 4 The Animation 05 (BD 1920x1080 x264 FLAC)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Video Position: 888
+Video Zoom Percent: 0.375000
+Active Line: 5
+Video Position: 33360
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +33,7 @@ Dialogue: 0,0:02:07.11,0:02:07.15,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:12:48.75,0:12:48.79,Default,chptr,0,0,0,,{Eyecatch}
 Dialogue: 0,0:12:58.76,0:12:58.80,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:21:56.67,0:21:56.71,Default,chptr,0,0,0,,{ED}
-Dialogue: 0,0:23:11.37,0:23:11.41,Default,chptr,0,0,0,,{Part C}
+Dialogue: 0,0:23:11.37,0:23:11.41,Default,chptr,0,0,0,,{Epilogue}
 Dialogue: 0,0:24:16.43,0:24:16.48,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:00:02.74,0:00:06.19,Default,,0,0,0,,Welcome to the Velvet Room.
 Dialogue: 0,0:00:06.99,0:00:11.49,Default,,0,0,0,,I foresee two Arcana shining brightly in your future-

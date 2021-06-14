@@ -20,8 +20,8 @@ Keyframes File: [Salender-Raws] Persona 4 The Animation 10 (BD 1920x1080 x264 FL
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 5
-Video Position: 34536
+Active Line: 6
+Video Position: 34940
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,8 @@ Dialogue: 0,0:02:10.40,0:02:10.44,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:13:18.78,0:13:18.82,Default,chptr,0,0,0,,{Eyecatch}
 Dialogue: 0,0:13:28.79,0:13:28.83,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:22:45.72,0:22:45.76,Default,chptr,0,0,0,,{ED}
-Dialogue: 0,0:24:00.42,0:24:00.46,Default,chptr,0,0,0,,{Preview}
+Dialogue: 0,0:24:00.42,0:24:00.46,Default,chptr,0,0,0,,{Epilogue}
+Dialogue: 0,0:24:16.43,0:24:16.48,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:00:02.67,0:00:06.36,Default,,0,0,0,,Welcome to the Velvet Room.
 Dialogue: 0,0:00:07.29,0:00:10.85,Default,,0,0,0,,Let's see what fate has in store for you.
 Dialogue: 0,0:00:12.95,0:00:13.80,Default,,0,0,0,,Oh my!

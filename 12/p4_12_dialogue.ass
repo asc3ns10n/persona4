@@ -15,13 +15,11 @@ YCbCr Matrix: TV.709
 Last Style Storage: P4
 Audio File: [Salender-Raws] Persona 4 The Animation 12 (BD 1920x1080 x264 FLAC).mkv
 Video File: [Salender-Raws] Persona 4 The Animation 12 (BD 1920x1080 x264 FLAC).mkv
-Keyframes File: [Salender-Raws] Persona 4 The Animation 12 (BD 1920x1080 x264 FLAC)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 363
-Active Line: 371
-Video Position: 34427
+Video Zoom Percent: 0.500000
+Active Line: 5
+Video Position: 33504
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +32,7 @@ Dialogue: 0,0:02:16.41,0:02:16.45,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:12:45.74,0:12:45.79,Default,chptr,0,0,0,,{Eyecatch}
 Dialogue: 0,0:12:55.75,0:12:55.80,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:22:02.68,0:22:02.72,Default,chptr,0,0,0,,{ED}
-Dialogue: 0,0:23:17.38,0:23:17.42,Default,chptr,0,0,0,,{Part C}
+Dialogue: 0,0:23:17.38,0:23:17.42,Default,chptr,0,0,0,,{Epilogue}
 Dialogue: 0,0:24:16.43,0:24:16.48,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:00:03.70,0:00:07.20,Default,,0,0,0,,Welcome to the Velvet Room.{hasn't actually streamed yet. This is speculation}
 Dialogue: 0,0:00:07.87,0:00:14.06,Default,,0,0,0,,With your new bond, you have awakened to the Star Arcana.
