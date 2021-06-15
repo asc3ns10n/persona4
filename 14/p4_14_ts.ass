@@ -18,10 +18,10 @@ Video File: [Salender-Raws] Persona 4 The Animation 14 (BD 1920x1080 x264 FLAC).
 Keyframes File: [Salender-Raws] Persona 4 The Animation 14 (BD 1920x1080 x264 FLAC)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 592
-Active Line: 598
-Video Position: 34672
+Video Zoom Percent: 0.375000
+Scroll Position: 606
+Active Line: 619
+Video Position: 34614
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -636,28 +636,28 @@ Dialogue: 1,0:15:38.88,0:15:38.92,Signs,,0,0,0,,{\an6\pos(1299.1,95.82)\fscx98.6
 Dialogue: 0,0:15:38.92,0:15:39.71,Signs,,0,0,0,,{\an6\pos(1296.23,92.85)\frz26.134\fnMaterial Sans\b1\bord3.5\c&HD9D5CC&\3c&HD9D5CC&\1a&HFF&\blur0.7\fad(0,600)}{sign}Burning\Nup!
 Dialogue: 1,0:15:38.92,0:15:39.71,Signs,,0,0,0,,{\an6\pos(1296.23,92.85)\frz26.134\fnMaterial Sans\b1\c&H88847E&\blur0.7\fad(0,600)}{sign}Burning\Nup!
 Dialogue: 0,0:18:40.31,0:18:42.30,Signs,,0,0,0,,{\an8\pos(1017,471)\frz347.377\fnAs seen on TV\fs97.5\b1\c&HF3F2EE&\blur0.9}Narukami Yu
-Dialogue: 0,0:24:02.42,0:24:02.55,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\pos(915.3,823)\org(915.3,823)\fry0.33\frx2.87\frz-1.36\clip(m 756 92.8 l 1153.6 106.4 1172.8 1041.6 707.2 1032)}Nanako
-Dialogue: 0,0:24:02.42,0:24:02.55,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\pos(948.19,881.49)\org(948.19,881.49)\fry0.32\frx2.85\frz-1.31\clip(m 756 92.8 l 1153.6 106.4 1172.8 1041.6 707.2 1032)}Dojima
-Dialogue: 0,0:24:02.55,0:24:02.67,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\pos(958.3,799)\org(958.3,799)\fry-1.02\frx1.64\frz-3.47\fax0.06\clip(m 788 63.8 l 1168.6 69.4 1185.8 1021.6 770.2 991)}Nanako
-Dialogue: 0,0:24:02.55,0:24:02.67,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(983.19,860.49)\fry-1.02\frx1.63\frz-3.69\fax0.06\clip(m 788 63.8 l 1168.6 69.4 1185.8 1021.6 770.2 991)\pos(983.19,860.49)}Dojima
-Dialogue: 0,0:24:02.67,0:24:02.80,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\pos(987.3,778)\org(987.3,778)\fry-1.74\frx0.55\frz-5.07\fax0.11\clip(m 815 43.8 l 1172.6 49.4 1198.8 1012.6 829.2 972)}Nanako
-Dialogue: 0,0:24:02.67,0:24:02.80,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(1005.19,840.49)\fry-1.73\frx0.54\frz-5.41\fax0.12\clip(m 815 43.8 l 1172.6 49.4 1198.8 1012.6 829.2 972)\pos(1005.19,840.49)}Dojima
-Dialogue: 0,0:24:02.80,0:24:02.92,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(934.3,805)\fry-3.71\frx0.55\frz-17.94\fax0.3\clip(m 809 49.8 l 1158.6 107.4 1145.8 1109.6 788.2 976)\pos(936.73,811.29)}Nanako
-Dialogue: 0,0:24:02.80,0:24:02.92,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(949.19,874.49)\fry-3.69\frx0.55\frz-18.66\fax0.32\clip(m 809 49.8 l 1158.6 107.4 1145.8 1109.6 788.2 976)\pos(946.19,867.49)}Dojima
-Dialogue: 0,0:24:02.92,0:24:03.05,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\fry-4.59\frx0.63\frz-23.51\fax0.39\clip(m 804.43 54.37 l 1150.6 134.83 1119.51 1150.74 767.63 976)\pos(915.02,834.14)\org(917.3,825)}Nanako
-Dialogue: 0,0:24:02.92,0:24:03.05,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(922.19,891.49)\fry-4.57\frx0.63\frz-24.28\fax0.41\clip(m 804.43 54.37 l 1150.6 134.83 1119.51 1150.74 767.63 976)\pos(921.05,889.2)}Dojima
-Dialogue: 0,0:24:03.05,0:24:03.17,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(896.73,841)\fry-6.24\frx0.18\frz-29.96\fax0.51\clip(m 802.14 60.08 l 1140.31 165.69 1087.51 1194.17 757.34 976)\pos(893.3,844.43)}Nanako
-Dialogue: 0,0:24:03.05,0:24:03.17,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(901.62,904.06)\fry-6.23\frx0.18\frz-30.86\fax0.53\clip(m 802.14 60.08 l 1140.31 165.69 1087.51 1194.17 757.34 976)\pos(901.62,902.06)}Dojima
-Dialogue: 0,0:24:03.17,0:24:03.30,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(907.01,846.72)\fry-5.84\frx0.12\frz-26.83\fax0.45\clip(m 807.14 77.08 l 1152.31 167.69 1101.22 1173.6 764.2 978.29)\pos(905.01,845)}Nanako
-Dialogue: 0,0:24:03.17,0:24:03.30,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(925.62,898.35)\fry-5.81\frx0.12\frz-27.46\fax0.46\clip(m 807.14 77.08 l 1152.31 167.69 1101.22 1173.6 764.2 978.29)\pos(926.76,903.92)}Dojima
-Dialogue: 0,0:24:03.30,0:24:03.42,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(910.44,849)\fry-4.05\frx-0.26\frz-20.21\fax0.32\clip(m 806.71 93.22 l 1157.46 165.69 1114.94 1130.17 774.48 989.71)\pos(910.44,844.43)}Nanako
-Dialogue: 0,0:24:03.30,0:24:03.42,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(901.62,904.06)\fry-4.06\frx-0.26\frz-20.86\fax0.34\clip(m 806.71 93.22 l 1157.46 165.69 1114.94 1130.17 774.48 989.71)\pos(924.48,894.92)}Dojima
-Dialogue: 0,0:24:03.42,0:24:03.55,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(910.44,846.72)\fry-3.93\frx-0.48\frz-19.5\fax0.31\clip(m 807.86 96.65 l 1162.02 167.98 1119.51 1123.31 779.05 988.57)\pos(910.44,839.86)}Nanako
-Dialogue: 0,0:24:03.42,0:24:03.55,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(931.34,888.06)\fry-3.92\frx-0.48\frz-19.86\fax0.32\clip(m 807.86 96.65 l 1162.02 167.98 1119.51 1123.31 779.05 988.57)\pos(932.48,897.2)}Dojima
-Dialogue: 0,0:24:03.55,0:24:03.67,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(913.87,838.72)\fry-3.61\frx-0.42\frz-18.98\fax0.3\clip(m 810.15 95.51 l 1164.31 167.98 1120.65 1123.31 779.05 992)\pos(913.87,838)}Nanako
-Dialogue: 0,0:24:03.55,0:24:03.67,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(930.19,891.49)\fry-3.61\frx-0.42\frz-19.45\fax0.31\clip(m 810.15 95.51 l 1164.31 167.98 1120.65 1123.31 779.05 992)\pos(931.19,892.49)}Dojima
-Dialogue: 0,0:24:03.67,0:24:04.55,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(916.16,840.29)\fry-2.71\frx-0.39\frz-16.97\fax0.27\clip(m 810.15 95.51 l 1165.45 166.84 1127.5 1109.59 782.48 994.29)\pos(916.16,840.29)}Nanako
-Dialogue: 0,0:24:03.67,0:24:04.55,Signs,,0,0,0,,{\an8\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13\org(932.33,893.63)\fry-2.7\frx-0.39\frz-17.33\fax0.27\clip(m 810.15 95.51 l 1165.45 166.84 1127.5 1109.59 782.48 994.29)\pos(933.47,897.06)}Dojima
+Dialogue: 0,0:24:02.42,0:24:02.55,Signs,,0,0,0,,{\an8\pos(915.3,823)\org(915.3,823)\frz-1.36\fry0.33\frx2.87\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:02.42,0:24:02.55,Signs,,0,0,0,,{\an8\pos(948.19,881.49)\org(948.19,881.49)\frz-1.31\fry0.32\frx2.85\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
+Dialogue: 0,0:24:02.55,0:24:02.67,Signs,,0,0,0,,{\an8\pos(958.3,799)\org(958.3,799)\frz-3.47\fry-1.02\frx1.64\fax0.06\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:02.55,0:24:02.67,Signs,,0,0,0,,{\an8\pos(983.19,860.49)\org(983.19,860.49)\frz-3.69\fry-1.02\frx1.63\fax0.06\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
+Dialogue: 0,0:24:02.67,0:24:02.80,Signs,,0,0,0,,{\an8\pos(987.3,778)\org(987.3,778)\frz-5.07\fry-1.74\frx0.55\fax0.11\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:02.67,0:24:02.80,Signs,,0,0,0,,{\an8\pos(1005.19,840.49)\org(1005.19,840.49)\frz-5.41\fry-1.73\frx0.54\fax0.12\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
+Dialogue: 0,0:24:02.80,0:24:02.92,Signs,,0,0,0,,{\an8\pos(936.73,811.29)\org(934.3,805)\frz-17.94\fry-3.71\frx0.55\fax0.3\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:02.80,0:24:02.92,Signs,,0,0,0,,{\an8\pos(946.19,867.49)\org(949.19,874.49)\frz-18.66\fry-3.69\frx0.55\fax0.32\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
+Dialogue: 0,0:24:02.92,0:24:03.05,Signs,,0,0,0,,{\an8\pos(915.02,834.14)\org(917.3,825)\frz-23.51\fry-4.59\frx0.63\fax0.39\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:02.92,0:24:03.05,Signs,,0,0,0,,{\an8\pos(921.05,889.2)\org(922.19,891.49)\frz-24.28\fry-4.57\frx0.63\fax0.41\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
+Dialogue: 0,0:24:03.05,0:24:03.17,Signs,,0,0,0,,{\an8\pos(893.3,844.43)\org(896.73,841)\frz-29.96\fry-6.24\frx0.18\fax0.51\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:03.05,0:24:03.17,Signs,,0,0,0,,{\an8\pos(901.62,902.06)\org(901.62,904.06)\frz-30.86\fry-6.23\frx0.18\fax0.53\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
+Dialogue: 0,0:24:03.17,0:24:03.30,Signs,,0,0,0,,{\an8\pos(905.01,845)\org(907.01,846.72)\frz-26.83\fry-5.84\frx0.12\fax0.45\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:03.17,0:24:03.30,Signs,,0,0,0,,{\an8\pos(926.76,903.92)\org(925.62,898.35)\frz-27.46\fry-5.81\frx0.12\fax0.46\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
+Dialogue: 0,0:24:03.30,0:24:03.42,Signs,,0,0,0,,{\an8\pos(910.44,844.43)\org(910.44,849)\frz-20.21\fry-4.05\frx-0.26\fax0.32\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:03.30,0:24:03.42,Signs,,0,0,0,,{\an8\pos(924.48,894.92)\org(901.62,904.06)\frz-20.86\fry-4.06\frx-0.26\fax0.34\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
+Dialogue: 0,0:24:03.42,0:24:03.55,Signs,,0,0,0,,{\an8\pos(910.44,839.86)\org(910.44,846.72)\frz-19.5\fry-3.93\frx-0.48\fax0.31\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:03.42,0:24:03.55,Signs,,0,0,0,,{\an8\pos(932.48,897.2)\org(931.34,888.06)\frz-19.86\fry-3.92\frx-0.48\fax0.32\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
+Dialogue: 0,0:24:03.55,0:24:03.67,Signs,,0,0,0,,{\an8\pos(913.87,838)\org(913.87,838.72)\frz-18.98\fry-3.61\frx-0.42\fax0.3\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:03.55,0:24:03.67,Signs,,0,0,0,,{\an8\pos(931.19,892.49)\org(930.19,891.49)\frz-19.45\fry-3.61\frx-0.42\fax0.31\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
+Dialogue: 0,0:24:03.67,0:24:04.55,Signs,,0,0,0,,{\an8\pos(916.16,840.29)\org(916.16,840.29)\frz-16.97\fry-2.71\frx-0.39\fax0.27\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Nanako
+Dialogue: 0,0:24:03.67,0:24:04.55,Signs,,0,0,0,,{\an8\pos(933.47,897.06)\org(932.33,893.63)\frz-17.33\fry-2.7\frx-0.39\fax0.27\fnBeautiful Every Time\fs66\b1\bord1.5\c&H13181E&\3c&H13181E&\blur1.13}Dojima
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"80a6fac1-cd33-4694-b9ae-1d14e455bd10"#2C"originalText"#3A"{\\fnSamurai\\fs45\\frz340.588\\frx2\\fry352\\bord0\\c&HE0C637&\\4c&H64141E&\\xshad-7.5\\yshad-3\\blur0.75\\pos(1449#2C912)}Foreve{\\c&H836E1F&}r"}
