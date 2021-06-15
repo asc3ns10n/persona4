@@ -17,7 +17,6 @@ Style: ED,Arabic Typesetting,90,&H00FFFEF5,&H000000FF,&H00C59A6A,&H96000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:22:41.34,0:22:41.38,ED,,0,0,0,sync,
 Dialogue: 0,0:22:56.10,0:23:01.82,ED,,0,0,0,,{\blur3\fad(150,150)}When our eyes lock, a new case starts up {Me to me ga aeba, jiken no hajimari}
 Dialogue: 0,0:23:02.44,0:23:07.16,ED,,0,0,0,,{\blur3\fad(150,150)}I'll trail after those words {Sono kotoba wo bikou suru}
 Dialogue: 0,0:23:08.11,0:23:13.79,ED,,0,0,0,,{\blur3\fad(150,150)}When our hands touch, look! Things take a sudden turn{Te to te ga furete, hora! Kyuutenkai}

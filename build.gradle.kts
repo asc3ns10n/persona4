@@ -25,13 +25,17 @@ subs {
         
         if(propertyExists("OP")) {
             from(get("OP")) {
-                syncTargetTime(getAs<Duration>("opsync"))
+                if(propertyExists("opsync")) {
+                    syncTargetTime(getAs<Duration>("opsync"))
+                }
             }
         }
         
         if(propertyExists("ED")) {
             from(get("ED")) {
-                syncTargetTime(getAs<Duration>("edsync"))
+                if(propertyExists("edsync")) {
+                    syncTargetTime(getAs<Duration>("edsync"))
+                }
             }
         }
     }
@@ -42,13 +46,17 @@ subs {
         
         if(propertyExists("OP")) {
             from(get("OP")) {
-                syncTargetTime(getAs<Duration>("opsync"))
+                if(propertyExists("opsync")) {
+                    syncTargetTime(getAs<Duration>("opsync"))
+                }
             }
         }
         
         if(propertyExists("ED")) {
             from(get("ED")) {
-                syncTargetTime(getAs<Duration>("edsync"))
+                if(propertyExists("edsync")) {
+                    syncTargetTime(getAs<Duration>("edsync"))
+                }
             }
         }
     }

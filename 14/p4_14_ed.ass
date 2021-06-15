@@ -20,7 +20,6 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:22:26.72,0:22:40.02,ED,,0,0,0,,{\an8}I look at the rustic scenery along the path to school we walked together {kimi to aruita tsuugakuro hinabiru keshiki mitsumete}
 Comment: 0,0:22:40.68,0:22:48.79,ED,,0,0,0,,{\an8}Campus at spring, the flood plane, the summer festival {haru no koutei kasenshiki natsu matsuri}
 Comment: 0,0:22:49.12,0:23:00.97,ED,,0,0,0,,{\an8}These were the days we spent shoulder-to-shoulder laughing together {minna de waratte katayose sugoshiteta hibi}
-Dialogue: 0,0:23:01.28,0:23:01.32,ED,,0,0,0,sync,
 Dialogue: 0,0:23:01.68,0:23:08.52,ED,,0,0,0,,{\an8}{\blur3\fad(200,200)}From past to present {kono ninake nai nichijou wo nagamete}
 Dialogue: 0,0:23:10.31,0:23:18.15,ED,,0,0,0,,{\blur3\fad(200,200)}{\an8}I've always looked back on these carefree days {kako kara ima made sugoshite kita yo}
 Dialogue: 0,0:23:18.49,0:23:26.04,ED,,0,0,0,,{\blur3\fad(200,200)}{\an8}From today to tomorrow {kyou kara asu ashita kara mirai he}
