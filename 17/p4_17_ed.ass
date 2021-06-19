@@ -18,8 +18,10 @@ Video File: [Salender-Raws] Persona 4 The Animation 17 (BD 1920x1080 x264 FLAC).
 Keyframes File: [Salender-Raws] Persona 4 The Animation 17 (BD 1920x1080 x264 FLAC)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Video Position: 32824
+Video Zoom Percent: 0.875000
+Scroll Position: 3
+Active Line: 13
+Video Position: 34344
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,4 +42,4 @@ Dialogue: 0,0:23:23.32,0:23:25.69,ED,,0,0,0,,{\blur4.5\fad(150,150)}I've always
 Dialogue: 0,0:23:25.69,0:23:28.11,ED,,0,0,0,,{\blur4.5\fad(150,150)}looked back on these
 Dialogue: 0,0:23:28.11,0:23:31.16,ED,,0,0,0,,{\blur4.5\fad(150,150)}carefree days {kako kara ima made sugoshite kita yo}
 Dialogue: 0,0:23:31.41,0:23:39.04,ED,,0,0,0,,{\blur4.5\fad(150,150)}From today to tomorrow {kyou kara asu ashita kara mirai he}
-Dialogue: 0,0:23:40.75,0:23:51.51,ED,,0,0,0,,{\blur4.5\fad(150,150)\t(\b0\c&H303030&\3c&HFFFFFF&)}We move forward while treasuring the bonds we've made {minna to kizuita kizuna himete aruki dasu}
+Dialogue: 0,0:23:40.75,0:23:51.51,ED,,0,0,0,,{\blur4.5\fad(150,150)\t(4174,5633,\3c&HA44628&)\t(6968,8900,\c&H303030&\3c&HFFFFFF&)}We move forward while treasuring the bonds we've made {minna to kizuita kizuna himete aruki dasu}
