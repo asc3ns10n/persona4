@@ -19,7 +19,9 @@ Keyframes File: [Salender-Raws] Persona 4 The Animation 15 (BD 1920x1080 x264 FL
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 2400
+Scroll Position: 163
+Active Line: 172
+Video Position: 13124
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -222,7 +224,7 @@ Dialogue: 0,0:10:09.47,0:10:14.49,Default,,0,0,0,,{\an8}...program independently
 Dialogue: 0,0:10:14.49,0:10:15.80,Default,,0,0,0,,They're still at it.
 Dialogue: 0,0:10:16.75,0:10:19.39,Default,,0,0,0,,It's about the killer we caught.
 Dialogue: 0,0:10:15.18,0:10:17.95,Default,,0,0,0,,{\an8}We'll give you the full story later in our feature program.
-Dialogue: 0,0:10:19.39,0:10:24.15,Default,,0,0,0,,{\pos(957,1065)}People think it's cool to diss\Nanyone who looks antisocial.
+Dialogue: 0,0:10:19.39,0:10:24.15,Default,,0,0,0,,People think it's cool to diss\Nanyone who looks antisocial.
 Dialogue: 0,0:10:24.16,0:10:25.94,Default,,0,0,0,,Huh? Where are Teddie and the girls?
 Dialogue: 0,0:10:27.99,0:10:29.83,Default,,0,0,0,,It looks like we lost them!
 Dialogue: 0,0:10:30.73,0:10:33.95,Default,,0,0,0,,This sucks. Let's split up and look for them.
