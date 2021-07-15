@@ -72,7 +72,7 @@ subs {
             video {
                 trackOrder(0)
                 lang("jpn")
-                name("BD 1080p x264 [Salender-Raws]")
+                name("BD 1080p Hi10 [Salender-Raws]")
             }
             audio {
                 trackOrder(2)

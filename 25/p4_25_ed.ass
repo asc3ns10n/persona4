@@ -14,9 +14,9 @@ Video Colorspace: BT.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Salender-Raws] Persona 4 The Animation 25 (BD 1920x1080 x264 FLAC).mkv
-Video File: [Salender-Raws] Persona 4 The Animation 25 (BD 1920x1080 x264 FLAC).mkv
-Keyframes File: [Salender-Raws] Persona 4 The Animation 25 (BD 1920x1080 x264 FLAC)_keyframes.txt
+Audio File: ../[Salender-Raws] Persona 4 The Animation (BD 1920x1080 x264 FLAC)/[Salender-Raws] Persona 4 The Animation 25 (BD 1920x1080 x264 FLAC).mkv
+Video File: ../[Salender-Raws] Persona 4 The Animation (BD 1920x1080 x264 FLAC)/[Salender-Raws] Persona 4 The Animation 25 (BD 1920x1080 x264 FLAC).mkv
+Keyframes File: ../[Salender-Raws] Persona 4 The Animation (BD 1920x1080 x264 FLAC)/[Salender-Raws] Persona 4 The Animation 25 (BD 1920x1080 x264 FLAC)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
