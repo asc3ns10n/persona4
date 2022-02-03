@@ -13,13 +13,11 @@ plugins {
 subs {
     readProperties("sub.properties")
     episodes(getList("episodes"))
-    release(arg("release") ?: "TV")
 
     merge {
         from(get("dialogue")) {
             incrementLayer(10)
         }
-        
         from(getList("eyecatch"))
         from(getList("typesetting"))
         
@@ -36,29 +34,43 @@ subs {
                 if(propertyExists("edsync")) {
                     syncTargetTime(getAs<Duration>("edsync"))
                 }
+            }
+        }
+
+        includeExtraData(false)
+        includeProjectGarbage(false)
+        
+        scriptInfo {
+            scaledBorderAndShadow = true
+        }
+    }
+
+    val signs by task<ASS> {
+        from(merge.item())
+        
+        ass {
+            events.lines.removeIf { line ->
+                line.style.contains("Default")
             }
         }
     }
 
-    val mergeSigns by task<Merge> {
-        from(getList("eyecatch"))
-        from(getList("typesetting"))
-        
-        if(propertyExists("OP")) {
-            from(get("OP")) {
-                if(propertyExists("opsync")) {
-                    syncTargetTime(getAs<Duration>("opsync"))
-                }
-            }
-        }
-        
-        if(propertyExists("ED")) {
-            from(get("ED")) {
-                if(propertyExists("edsync")) {
-                    syncTargetTime(getAs<Duration>("edsync"))
-                }
-            }
-        }
+    val resample by task<SubExec> {
+        enabled = (!file(get("en_audio")).exists()) || (!file(get("ja_audio")).exists())
+
+        executable("ffmpeg")
+        args(
+            "-y", "-i", file(get("premux")), "-vn", "-map", "0:a:m:language:eng", 
+            "-af", "aresample=48000:resampler=soxr:precision=33:osf=s16:dither_method=shibata", 
+            file(get("en_audio"))
+        )
+
+        executable("ffmpeg")
+        args(
+            "-y", "-i", file(get("premux")), "-vn", "-map", "0:a:m:language:jpn", 
+            "-af", "aresample=48000:resampler=soxr:precision=33:osf=s16:dither_method=shibata", 
+            file(get("ja_audio"))
+        )
     }
 
     chapters {
@@ -66,51 +78,61 @@ subs {
     }
 
     mux {
+        dependsOn(resample.item())
+        
         title(get("title"))
 
         from(get("premux")) {
             video {
+                lang("en")
+                name("BD 1080p Hi10 [Raizel]")
                 trackOrder(0)
-                lang("jpn")
-                name("BD 1080p Hi10 [Salender-Raws]")
             }
-            audio {
-                trackOrder(2)
-                lang("jpn")
-                name("Japanese 2.0 FLAC")
-            }
+            audio { include(false) }
             attachments { include(false) }
             subtitles { include(false) }
+            includeChapters(false)
         }
 
-        from(get("dub")) {
-            audio {
-                lang("eng")
-                name("English 2.0 FLAC")
+        from(get("ja_audio")) {
+            tracks {
+                lang("ja")
+                name("Japanese 2.0 FLAC")
                 trackOrder(1)
                 default(true)
-                forced(true)
             }
         }
 
-        from(mergeSigns.item()) {
+        from(get("en_audio")) {
             tracks {
-                name("Signs & Songs")
-                lang("eng")
+                lang("en")
+                name("English 2.0 FLAC")
+                trackOrder(2)
                 default(true)
-                forced(true)
             }
         }
-        
+
         from(merge.item()) {
             tracks {
-                name("Full Subtitles")
-                lang("eng")
+                lang("en")
+                name("Full Subtitles [Commie/ASC]")
+                default(true)
+                compression(CompressionType.ZLIB)
+            }
+        }
+
+        from(signs.item()) {
+            tracks {
+                lang("en")
+                name("Signs & Songs")
+                default(false)
+                forced(true)
+                compression(CompressionType.ZLIB)
             }
         }
 
         chapters(chapters.item()) {
-            lang("eng")
+            lang("en")
         }
 
         attach(get("fonts")) {
